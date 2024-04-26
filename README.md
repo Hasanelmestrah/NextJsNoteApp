@@ -17,6 +17,7 @@
 
 ## add
 ![Screenshot from 2024-04-26 03-06-57](https://github.com/Hasanelmestrah/NextJsNoteApp/assets/116690334/65fa0f51-99a3-4ddd-8c72-90f3082826bb)
+![Screenshot from 2024-04-26 04-45-03](https://github.com/Hasanelmestrah/NextJsNoteApp/assets/116690334/f4e79bf3-37f1-4f79-8562-9156613bbc07)
 
 
 ## update
@@ -27,5 +28,8 @@
 ![Screenshot from 2024-04-26 03-15-02](https://github.com/Hasanelmestrah/NextJsNoteApp/assets/116690334/fb2d593a-4f8c-41a7-a77c-2e5bc3f6d251)
 ![Screenshot from 2024-04-26 03-15-29](https://github.com/Hasanelmestrah/NextJsNoteApp/assets/116690334/9afa2b2b-25f2-44c6-b703-0a468af2cbeb)
 
+## database
+![Screenshot from 2024-04-26 03-18-58](https://github.com/Hasanelmestrah/NextJsNoteApp/assets/116690334/f3a2613f-46bd-4be3-922f-49ff3b11611b)
+![Screenshot from 2024-04-26 03-19-12](https://github.com/Hasanelmestrah/NextJsNoteApp/assets/116690334/3db3e2ae-f42f-423e-8880-720d664ebadd)
 
 
