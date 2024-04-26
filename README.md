@@ -17,7 +17,7 @@
 
 ## add
 ![Screenshot from 2024-04-26 03-06-57](https://github.com/Hasanelmestrah/NextJsNoteApp/assets/116690334/65fa0f51-99a3-4ddd-8c72-90f3082826bb)
-![Screenshot from 2024-04-26 03-07-15](https://github.com/Hasanelmestrah/NextJsNoteApp/assets/116690334/23b02ac4-4279-4868-a373-29c6f7248879)
+
 
 ## update
 ![Screenshot from 2024-04-26 03-13-53](https://github.com/Hasanelmestrah/NextJsNoteApp/assets/116690334/a159d20b-4f10-4948-89db-c8e7cb3af80b)
