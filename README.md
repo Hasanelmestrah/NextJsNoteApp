@@ -10,4 +10,5 @@
 4.  Create a `.env` file in the root directory and add necessary environment variables.`MONGODB_URI=`
 5. make sure to add your machine IP Addresse or `0.0.0.0/0`in the network Adress 
 6. run the project in development mode `npm run dev`
+7. open `http://localhost:3000/` in your browser
 
