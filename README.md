@@ -1,4 +1,5 @@
-### this is your app for daily notes
+# welcome to SkewNote App
+### this is your app for daily notes , Users can easily create, view, edit, and delete their notes within the application.
 
 ## Installation
 1. Clone the repository to your local machine:  `git clone <repository_url>`
