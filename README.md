@@ -13,23 +13,23 @@
 7. open `http://localhost:3000/` in your browser
 
 ## home page
-![Screenshot from 2024-04-26 03-04-52](https://github.com/Hasanelmestrah/NextJsNoteApp/assets/116690334/d354bd26-f3e9-4c52-82a2-07d9a3bb0737)
+![Screenshot from 2024-06-01 15-12-56](https://github.com/Hasanelmestrah/NextJsNoteApp/assets/116690334/9f9178ce-cc33-4786-9c4c-c06184896e6e)
+
 
 ## add
-![Screenshot from 2024-04-26 03-06-57](https://github.com/Hasanelmestrah/NextJsNoteApp/assets/116690334/65fa0f51-99a3-4ddd-8c72-90f3082826bb)
-![Screenshot from 2024-04-26 04-45-03](https://github.com/Hasanelmestrah/NextJsNoteApp/assets/116690334/f4e79bf3-37f1-4f79-8562-9156613bbc07)
-
+![Screenshot from 2024-06-01 15-14-08](https://github.com/Hasanelmestrah/NextJsNoteApp/assets/116690334/3d09756d-840d-4a1e-b0ca-f4cb22f06d49)
+![Screenshot from 2024-06-01 15-14-39](https://github.com/Hasanelmestrah/NextJsNoteApp/assets/116690334/27b23627-ccdf-4902-88c3-7deb92862e7b)
 
 ## update
-![Screenshot from 2024-04-26 03-13-53](https://github.com/Hasanelmestrah/NextJsNoteApp/assets/116690334/a159d20b-4f10-4948-89db-c8e7cb3af80b)
-![Screenshot from 2024-04-26 03-14-10](https://github.com/Hasanelmestrah/NextJsNoteApp/assets/116690334/fcac6708-9b31-4a8c-96c6-b9382774ac5f)
+
 
 ## delete
-![Screenshot from 2024-04-26 03-15-02](https://github.com/Hasanelmestrah/NextJsNoteApp/assets/116690334/fb2d593a-4f8c-41a7-a77c-2e5bc3f6d251)
-![Screenshot from 2024-04-26 03-15-29](https://github.com/Hasanelmestrah/NextJsNoteApp/assets/116690334/9afa2b2b-25f2-44c6-b703-0a468af2cbeb)
+![Screenshot from 2024-06-01 15-15-17](https://github.com/Hasanelmestrah/NextJsNoteApp/assets/116690334/2740fd22-fa5d-43a5-afb1-dd34bf8b3a0e)
+![Screenshot from 2024-06-01 15-15-25](https://github.com/Hasanelmestrah/NextJsNoteApp/assets/116690334/6a36b993-7939-4193-a678-ed6637ce7493)
+
 
 ## database
-![Screenshot from 2024-04-26 03-18-58](https://github.com/Hasanelmestrah/NextJsNoteApp/assets/116690334/f3a2613f-46bd-4be3-922f-49ff3b11611b)
-![Screenshot from 2024-04-26 03-19-12](https://github.com/Hasanelmestrah/NextJsNoteApp/assets/116690334/3db3e2ae-f42f-423e-8880-720d664ebadd)
+![Screenshot from 2024-06-01 15-05-54](https://github.com/Hasanelmestrah/NextJsNoteApp/assets/116690334/4d29d097-c5b6-4c18-bb31-5aa9a4756f5c)
+
 
 
