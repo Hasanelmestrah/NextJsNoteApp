@@ -13,7 +13,7 @@
 7. open `http://localhost:3000/` in your browser
 
 ## Home page
-![Screenshot from 2024-06-01 15-12-56](https://github.com/Hasanelmestrah/NextJsNoteApp/assets/116690334/9f9178ce-cc33-4786-9c4c-c06184896e6e)
+![Screenshot from 2024-06-01 15-56-55](https://github.com/Hasanelmestrah/NextJsNoteApp/assets/116690334/2209b3fd-ef66-4b38-afa1-0d41ea2baa52)
 
 ## Add
 ![Screenshot from 2024-06-01 15-48-31](https://github.com/Hasanelmestrah/NextJsNoteApp/assets/116690334/ab100e86-af2d-47e4-a5bb-19427c5e27a8)
@@ -30,7 +30,7 @@
 ![Screenshot from 2024-06-01 15-15-25](https://github.com/Hasanelmestrah/NextJsNoteApp/assets/116690334/6a36b993-7939-4193-a678-ed6637ce7493)
 
 ## Database
-![Screenshot from 2024-06-01 15-05-54](https://github.com/Hasanelmestrah/NextJsNoteApp/assets/116690334/4d29d097-c5b6-4c18-bb31-5aa9a4756f5c)
+![Screenshot from 2024-06-01 15-54-03](https://github.com/Hasanelmestrah/NextJsNoteApp/assets/116690334/8c1f9175-2e4e-4963-8d53-83434978f83c)
 
 
 
